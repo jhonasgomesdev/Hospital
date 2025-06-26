@@ -1,14 +1,14 @@
 # 🏥 Hospital Management API
 
-A complete hospital management system API developed as an academic project at Unilasalle, proposed by Professor Thiago. While implemented in Spring Boot, the architecture emphasizes **universal backend principles** applicable to any tech stack.
+Um sistema completo de gestão hospitalar em API desenvolvido como projeto acadêmico na Unilasalle, proposto pelo Professor Thiago. Embora implementado em Spring Boot, a arquitetura enfatiza princípios universais de backend aplicáveis a qualquer stack tecnológica.
 
 ## 🌟 Key Features
 
-- **RESTful API** following industry standards
-- **Domain-Driven Design** with clear entity relationships
-- **Professional API Documentation** via Swagger UI
-- **Data Validation** (unique CRM/CPF, appointment status control)
-- **Clean Architecture** with separation of concerns
+- **API RESTful** seguindo padrões do mercado
+- **Domain-Driven Design** com relacionamentos claros entre entidades
+- **Documentação profissional** via Swagger UI
+- **Validações de dados** (CRM/CPF únicos, controle de status de consultas)
+- **Arquitetura limpa** com separação de responsabilidades
 
 ## 🛠️ Core Implementation Details
 
