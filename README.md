@@ -12,13 +12,15 @@ A complete hospital management system API developed as an academic project at Un
 
 ## 🛠️ Core Implementation Details
 
+```
 src/
-├── controller/ # API endpoints
-├── model/ # Business entities
-├── repository/ # Data persistence
-├── dto/ # Data transfer objects
-├── mapper/ # Entity-DTO conversion
-└── config/ # API documentation setup
+├── controller/    # API endpoints
+├── model/         # Business entities
+├── repository/    # Data persistence
+├── dto/           # Data transfer objects
+├── mapper/        # Entity-DTO conversion
+└── config/        # API documentation setup
+```
 
 ## 💡 Universal Backend Concepts Demonstrated
 
